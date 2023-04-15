@@ -1,0 +1,51 @@
+section{
+    padding:3rem  0 10rem;
+}
+
+:root{
+    --green-color : #69bd27;
+    --light-green : #69be28;
+    --white-color : #ffffff;
+    --dark-blue : #006a4d;
+    --light-blue : #7fb4a6;
+    --black-color : #000000;
+    --light-dark : #3b3b3b;
+    --dark-green:#00694d;
+}
+
+li{
+    display: inline-block; 
+    list-style: none;
+}
+
+a:visited, a:link{
+    text-decoration: none;
+}
+
+
+
+
+.mt-50{
+    margin-top: 9rem;
+}
+
+.mt-70{
+    margin-top: 7rem;
+}
+
+.mb-20{
+    margin-bottom: 2rem;
+}
+
+.mb-30{
+    margin-bottom: 3rem;
+}
+
+.mb-50{
+    margin-bottom: 5rem;
+}
+
+.p-1 {
+    padding:0 1rem;
+}
+
